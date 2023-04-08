@@ -1,5 +1,5 @@
 let pokemonData = [];
-let image = document.getElementById("image");
+
 async function getPokemon() {
   try {
     let urlPokemon = "https://pokeapi.co/api/v2/pokemon/";
